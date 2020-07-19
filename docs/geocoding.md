@@ -24,7 +24,7 @@ python geocode_hospitals.py
 ### Issues
 
 - There are `323` hospitals listed but there are some that appear twice on the list. The unique number of hospitals is __`318`__. One example of a hospital that appears twice is _Radhakrishna Multispeciality Hospital Ivf Center._
-- There are some hospitals who's address returned did not return any results. For these, we have manually used Google Maps and updated the address in `data/hospitals_raw.csv'. Ex:
+- There are some hospitals who's address returned did not return any results. For these, we have manually used Google Maps and updated the address in `data/hospitals_raw.csv`. Ex:
 
 ```bash
 # Previous address.
