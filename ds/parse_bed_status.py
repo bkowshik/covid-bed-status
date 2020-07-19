@@ -47,11 +47,17 @@ def parse(filename):
 
             # Store the counts after cleanup.
             else:
+
+                # Sometimes, the total row has slipped into the hospital list.
+                if 'Total' in tds[1].text:
+                    continue
+
                 data_row = []
                 for td in tds:
                     text = ' '.join(td.text.split())
                     data_row.append(text)
                 data_rows.append(data_row)
+
 
     columns = [
         'ID',
