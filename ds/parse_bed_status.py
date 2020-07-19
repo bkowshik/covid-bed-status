@@ -17,6 +17,9 @@ def parse(filename):
         if '<th width="617">Address</td>' in text:
             text = text.replace('<th width="617">Address</td>', '<th width="617">Address</th>')
 
+        if '</td>  <tr>' in text:
+            text = text.replace('</td>  <tr>', '</td> </tr> <tr>')
+
         with open('temp.html', 'w') as f:
             f.write(text)
 
@@ -82,7 +85,7 @@ def parse(filename):
     df[df.columns[2:]] = df[df.columns[2:]].astype('int')
 
     # Drop the first column which has serial numbers.
-    df = df[df.columns[1:]].sort_values(by='Occupied total', ascending=False)
+    df = df[df.columns[1:]].sort_values(by='Occupied total', ascending=False).reset_index(drop=True)
 
     # There are some duplicate rows too.
     df.drop_duplicates(inplace=True)
