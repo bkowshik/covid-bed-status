@@ -67,16 +67,16 @@ def main():
         geometry = location['results'][0]['geometry']['location']
 
         hospital_locations.append({
-            'Category': category,
-            'Hospital name': hospital_name,
-            'Hospital address': hospital_address,
-            'Hospital latitude': round(geometry['lat'], 6),
-            'Hospital longitude': round(geometry['lng'], 6),
+            'category': category,
+            'name': hospital_name,
+            'address': hospital_address,
+            'latitude': round(geometry['lat'], 6),
+            'longitude': round(geometry['lng'], 6),
         })
 
     output_filename = '../data/hospital_locations.csv'
-    hospital_locations = pd.DataFrame(hospital_locations).sort_values(by='Hospital name')
-    hospital_locations[['Category', 'Hospital name', 'Hospital address', 'Hospital latitude', 'Hospital longitude']].to_csv(output_filename, index=False)
+    hospital_locations = pd.DataFrame(hospital_locations).sort_values(by='name')
+    hospital_locations[['category', 'name', 'address', 'latitude', 'longitude']].to_csv(output_filename, index=False)
 
 
 if __name__ == '__main__':
