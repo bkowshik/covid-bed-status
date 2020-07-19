@@ -6,7 +6,21 @@ def parse(filename):
 
     # Read file and prepare the soup.
     with open(filename) as f:
-        soup = BeautifulSoup(f.read().replace(u'\xa0', ' '), 'html.parser')
+
+        # Read contents of the file.
+        text = f.read()
+
+        # NOTE: At one place, the HTML is malformed. This is a temporary fix.
+        if '<th width="64">SR. NO.</td>' in text:
+            text = text.replace('<th width="64">SR. NO.</td>', '<th width="64">SR. NO.</th>')
+
+        if '<th width="617">Address</td>' in text:
+            text = text.replace('<th width="617">Address</td>', '<th width="617">Address</th>')
+
+        with open('temp.html', 'w') as f:
+            f.write(text)
+
+        soup = BeautifulSoup(text.replace(u'\xa0', ' '), 'html.parser')
 
     # To store counts for every hospital.
     data_rows = []
