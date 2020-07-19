@@ -1,0 +1,327 @@
+Name,Total general,Total HDU,Total ICU,Total ICU Ventilator,Total,Occupied general,Occupied HDU,Occupied ICU,Occupied ICU Ventilator,Occupied total,Available general,Available HDU,Available ICU,Available ICU Ventilator,Available total,Due for discharge general,Due for discharge HDU,Due for discharge ICU,Due for discharge ICU Ventilator,Due for discharge total
+GKVK Agri,716,0,0,0,716,686,0,0,0,686,30,0,0,0,30,48,0,0,0,48
+Victoria Hospital,92,358,0,50,500,89,347,0,49,485,3,11,0,1,15,0,0,0,0,0
+Akash Hospital,450,150,5,20,625,436,21,1,12,470,14,129,4,8,155,0,0,0,0,0
+Haj Bhavan,384,0,0,0,384,376,0,0,0,376,8,0,0,0,8,40,0,0,0,40
+NERGH,510,0,0,0,510,242,0,0,0,242,268,0,0,0,268,0,0,0,0,0
+Govt Ayur College,250,0,0,0,250,242,0,0,0,242,8,0,0,0,8,27,0,0,0,27
+The Oxford Medical College Hospital and Research center,160,10,25,5,200,155,10,25,5,195,5,0,0,0,5,0,0,0,0,0
+Vydehi Hospital,160,35,2,3,200,150,35,1,2,188,10,0,1,1,12,0,0,0,0,0
+Horti Boy's Hostel,200,0,0,0,200,166,0,0,0,166,34,0,0,0,34,18,0,0,0,18
+Koramangala,245,0,0,0,245,163,0,0,0,163,82,0,0,0,82,10,0,0,0,10
+Bowring And Lady Curzon Hospitals,0,130,20,15,165,0,126,20,15,161,0,4,0,0,4,0,0,0,0,0
+MVJ Medical College And Research Hospital,26,174,10,2,212,22,131,4,2,159,4,43,6,0,53,0,0,0,0,0
+SSAH,176,0,0,0,176,157,0,0,0,157,19,0,0,0,19,30,0,0,0,30
+Sir C V Raman General Hopsital Indiranagar,130,20,0,0,150,123,16,0,0,139,7,4,0,0,11,0,0,0,0,0
+St Johns Medical College Hospital,40,145,0,15,200,27,79,0,15,121,13,66,0,0,79,0,0,0,0,0
+General Hospital Jayanagar,85,22,7,6,120,83,22,7,6,118,2,0,0,0,2,0,0,0,0,0
+Horti Girls's Hostel,143,0,0,0,143,112,0,0,0,112,31,0,0,0,31,0,0,0,0,0
+SDS TRC RGICD,0,92,0,12,104,0,92,0,12,104,0,0,0,0,0,0,0,0,0,0
+K C General Hospital,99,9,0,0,108,98,2,0,0,100,1,7,0,0,8,0,0,0,0,0
+M S Ramaiah Hospital,60,30,8,2,100,55,26,8,2,91,5,4,0,0,9,0,0,0,0,0
+ESIMC PGIMSR MODEL HOSPITAL,53,1,15,11,80,52,1,15,11,79,1,0,0,0,1,0,0,0,0,0
+Dr B R Ambedkar Medical College,76,20,2,2,100,37,20,2,2,61,39,0,0,0,39,0,0,0,0,0
+Narayana Hrudayalaya Private Limited,49,0,2,0,51,49,0,2,0,51,0,0,0,0,0,0,0,0,0,0
+BANGALORE BAPTIST HOSPITAL,20,20,5,5,50,19,20,5,5,49,1,0,0,0,1,0,0,0,0,0
+Chinmaya Mission Hospital,45,18,0,0,63,34,6,0,0,40,11,12,0,0,23,0,0,0,0,0
+APOLLO HOSPITALS ENTERPRISE LIMITED,10,20,5,5,40,10,20,5,5,40,0,0,0,0,0,0,0,0,0,0
+Epedimic Disease Hospital,40,0,0,0,40,39,0,0,0,39,1,0,0,0,1,0,0,0,0,0
+KIMS Hospital And Research Center,40,10,0,0,50,30,5,0,0,35,10,5,0,0,15,0,0,0,0,0
+Columbia Asia Referral Hospital Yeshwanthpur,5,27,2,1,35,4,27,2,1,34,1,0,0,0,1,0,0,0,0,0
+BGS Global Institute of Medical Science and Hospital,70,30,8,2,110,18,6,7,0,31,52,24,1,2,79,0,0,0,0,0
+Columbia Asia hospital White Field,26,7,1,1,35,21,7,1,1,30,5,0,0,0,5,0,0,0,0,0
+Sapthagiri Super Speciality Hospital,30,0,0,2,32,27,0,0,2,29,3,0,0,0,3,0,0,0,0,0
+Columbia Asia Hospital,26,2,1,1,30,25,1,1,1,28,1,1,0,0,2,0,0,0,0,0
+Manipal Northside Hospital a unit of MHEPL,7,40,4,5,56,0,20,4,3,27,7,20,0,2,29,0,0,0,0,0
+Sagar Hospitals,49,14,8,4,75,24,2,0,0,26,25,12,8,4,49,0,0,0,0,0
+Rangadore hospital,21,17,1,1,40,14,11,0,0,25,7,6,1,1,15,0,0,0,0,0
+Bhagwan Mahaveer Jain Hospital,29,0,0,0,29,24,0,0,0,24,5,0,0,0,5,0,0,0,0,0
+SHIFAA HOSPITAL,21,3,8,2,34,16,3,5,0,24,5,0,3,2,10,0,0,0,0,0
+Aster CMI Hospital,17,1,2,6,26,12,1,2,6,21,5,0,0,0,5,0,0,0,0,0
+Vimalalaya Hospital a Unit of Vimalalaya hospital,10,14,0,0,24,10,10,0,0,20,0,4,0,0,4,0,0,0,0,0
+Taluka Heath Center Doddaballapura,0,20,0,0,20,0,20,0,0,20,0,0,0,0,0,0,0,0,0,0
+Columbia Asia Hospital Hebbal,15,0,0,4,19,15,0,0,4,19,0,0,0,0,0,0,0,0,0,0
+SSNMC Super Specialty Hospital,0,42,4,4,50,0,12,4,3,19,0,30,0,1,31,0,0,0,0,0
+Vikram Hospital Bengaluru Private Limited,16,3,1,1,21,15,2,1,1,19,1,1,0,0,2,0,0,0,0,0
+Mallige Medical Centre Private Limited,21,0,0,0,21,19,0,0,0,19,2,0,0,0,2,0,0,0,0,0
+ST MARTHAS Hospital,25,30,13,2,70,12,5,0,0,17,13,25,13,2,53,0,0,0,0,0
+Rajarajeswari Medicalcollege And Hospital,100,179,15,6,300,16,0,0,0,16,84,179,15,6,284,0,0,0,0,0
+People Tree Hospitals,1,17,1,1,20,1,14,0,0,15,0,3,1,1,5,0,0,0,0,0
+Aster RV Hospital,13,0,3,2,18,13,0,1,0,14,0,0,2,2,4,0,0,0,0,0
+Prashanth Hospital,40,0,7,3,50,12,0,0,1,13,28,0,7,2,37,0,0,0,0,0
+M S SHEKHAR HOSPITAL,10,0,3,0,13,8,0,2,0,10,2,0,1,0,3,0,0,0,0,0
+Athreya Hospital,22,0,0,0,22,10,0,0,0,10,12,0,0,0,12,0,0,0,0,0
+St Philomenas Hospital,0,40,4,6,50,0,9,0,0,9,0,31,4,6,41,0,0,0,0,0
+ST THERESAS HOSPITAL,40,2,0,0,42,6,1,0,0,7,34,1,0,0,35,0,0,0,0,0
+Apoorva Hospitals And Diagnostic Centre,4,0,12,0,16,3,0,4,0,7,1,0,8,0,9,0,0,0,0,0
+Navachethana Hospital A Unit of Pan Asia Hospitals,16,1,0,3,20,3,1,0,1,5,13,0,0,2,15,0,0,0,0,0
+Jeevika Hospitals Pvt Ltd,10,0,0,0,10,4,0,0,0,4,6,0,0,0,6,0,0,0,0,0
+ASTRA SUPER SPECIALITY HOSPITAL,17,0,0,0,17,4,0,0,0,4,13,0,0,0,13,0,0,0,0,0
+Aaxis Hospital,16,0,2,2,20,3,0,0,0,3,13,0,2,2,17,0,0,0,0,0
+Koshys Hospital,3,0,0,0,3,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Agadi Hospital,10,9,0,0,19,1,1,0,0,2,9,8,0,0,17,0,0,0,0,0
+Aveksha Hospital,2,2,1,1,6,0,0,1,1,2,2,2,0,0,4,0,0,0,0,0
+East Point Hospital,157,23,17,3,200,2,0,0,0,2,155,23,17,3,198,0,0,0,0,0
+Uma Nursing Home,6,0,0,0,6,2,0,0,0,2,4,0,0,0,4,0,0,0,0,0
+Gayathri Hospitals Pvt Limited,2,0,3,3,8,1,0,0,0,1,1,0,3,3,7,0,0,0,0,0
+Meenakshi Hospital,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Punya Hospitals India pvt Ltd,10,18,0,0,28,0,1,0,0,1,10,17,0,0,27,0,0,0,0,0
+M G A Hospital,10,0,0,0,10,1,0,0,0,1,9,0,0,0,9,0,0,0,0,0
+Sathya Sai Orthopadic and Multispeciality Hospital,3,2,0,0,5,0,1,0,0,1,3,1,0,0,4,0,0,0,0,0
+Bhagwan Mahaveer Jain Hospital Girinagar,26,9,12,3,50,0,1,0,0,1,26,8,12,3,49,0,0,0,0,0
+Apollo Hospitals Bannerghatta A Unit of Imperial Hospital,96,3,7,3,109,0,0,0,1,1,96,3,7,2,108,0,0,0,0,0
+VIJAYASHREE HOSPITALS,12,0,0,0,12,1,0,0,0,1,11,0,0,0,11,0,0,0,0,0
+Cura Hospital,0,7,0,0,7,0,1,0,0,1,0,6,0,0,6,0,0,0,0,0
+Meghana Nursing Home,4,0,2,1,7,0,0,0,0,0,4,0,2,1,7,0,0,0,0,0
+Rescue Hospital A Unit Of Ratkal Speciality Hospital,9,0,2,3,14,0,0,0,0,0,9,0,2,3,14,0,0,0,0,0
+Relive Hospital,8,0,0,1,9,0,0,0,0,0,8,0,0,1,9,0,0,0,0,0
+Ramakrishna Hospital Unit III,10,0,0,3,13,0,0,0,0,0,10,0,0,3,13,0,0,0,0,0
+Rajmahal Vilas Hospital A Unit of Anjan Nursing Home,24,0,0,0,24,0,0,0,0,0,24,0,0,0,24,0,0,0,0,0
+Rajarajeshwari Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rajalakshmi Hospital,6,0,2,2,10,0,0,0,0,0,6,0,2,2,10,0,0,0,0,0
+Rajajinagar Kidney Care Hospital,7,0,2,3,12,0,0,0,0,0,7,0,2,3,12,0,0,0,0,0
+Raghavendra Nursing Home,7,0,0,1,8,0,0,0,0,0,7,0,0,1,8,0,0,0,0,0
+Rafi Life Care Hospital,6,0,2,3,11,0,0,0,0,0,6,0,2,3,11,0,0,0,0,0
+B N Speciality Hospital,10,0,1,1,12,0,0,0,0,0,10,0,1,1,12,0,0,0,0,0
+Radhakrishna Multispeciality Hospital Ivf Center,9,0,0,1,10,0,0,0,0,0,9,0,0,1,10,0,0,0,0,0
+Medwell Multispeciality Hospital And Diagnostic Ce,9,0,1,2,12,0,0,0,0,0,9,0,1,2,12,0,0,0,0,0
+Medivision Hospitals,14,0,0,1,15,0,0,0,0,0,14,0,0,1,15,0,0,0,0,0
+R K Hospital,8,0,0,1,9,0,0,0,0,0,8,0,0,1,9,0,0,0,0,0
+Medic Star Hospital,7,0,1,3,11,0,0,0,0,0,7,0,1,3,11,0,0,0,0,0
+Maya Multispeciality Hospital,4,0,1,3,8,0,0,0,0,0,4,0,1,3,8,0,0,0,0,0
+Mathru Multispeciality Hospital,10,0,1,3,14,0,0,0,0,0,10,0,1,3,14,0,0,0,0,0
+Maruthi Hospital,17,0,1,2,20,0,0,0,0,0,17,0,1,2,20,0,0,0,0,0
+Mamta Hospital,14,0,1,1,16,0,0,0,0,0,14,0,1,1,16,0,0,0,0,0
+Magnus Health Care Research Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AYESHA SPECIALITY HOSPITAL,4,0,0,0,4,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0
+Banashankari Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal Bangalore Hospital Sehat Care Health Care,5,0,2,3,10,0,0,0,0,0,5,0,2,3,10,0,0,0,0,0
+Lotus Hospital,24,0,1,3,28,0,0,0,0,0,24,0,1,3,28,0,0,0,0,0
+Ayaansh Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sri Arogya Hospital Rammurthy nagar,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Deeksha Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+City Hospital,8,0,0,0,8,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0
+Chaya Super Specialty Hospital,14,0,0,1,15,0,0,0,0,0,14,0,0,1,15,0,0,0,0,0
+Chaitanya Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+BSA Nursing Home,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Saralaya Hospitals pvt Ltd,5,0,1,1,7,0,0,0,0,0,5,0,1,1,7,0,0,0,0,0
+Sankeerthana Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bloosom Fertility Center And Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Sanjeevini Hospital,5,0,2,1,8,0,0,0,0,0,5,0,2,1,8,0,0,0,0,0
+Sakhii Hospitals A Unit of Prasad Health Care Serv,9,0,1,1,11,0,0,0,0,0,9,0,1,1,11,0,0,0,0,0
+Saibaba Hospital,8,0,0,2,10,0,0,0,0,0,8,0,0,2,10,0,0,0,0,0
+Sai Hospital,3,0,0,0,3,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0
+Bharth Poly Clinic Nursing Home,11,0,0,0,11,0,0,0,0,0,11,0,0,0,11,0,0,0,0,0
+Sai Ambica Hospital,7,0,0,1,8,0,0,0,0,0,7,0,0,1,8,0,0,0,0,0
+Bhagavathi Multispeciality Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Bangalore Orthopaedic And Surgical Hospital,14,0,0,0,14,0,0,0,0,0,14,0,0,0,14,0,0,0,0,0
+Sahasra Hospitals A Unit of JBS Nursing Home,10,0,2,3,15,0,0,0,0,0,10,0,2,3,15,0,0,0,0,0
+SSG Hospital,7,0,2,2,11,0,0,0,0,0,7,0,2,2,11,0,0,0,0,0
+Bangalore Hospice Trust,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Vasavi Hospital,35,0,0,0,35,0,0,0,0,0,35,0,0,0,35,0,0,0,0,0
+Like Wings Hospirtals Pvt Ltd,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+London Care Hospital,13,0,0,2,15,0,0,0,0,0,13,0,0,2,15,0,0,0,0,0
+Arunodaya Hospitals,14,0,0,1,15,0,0,0,0,0,14,0,0,1,15,0,0,0,0,0
+Apurva Mother And Child Hospital,11,0,2,2,15,0,0,0,0,0,11,0,2,2,15,0,0,0,0,0
+Apollo Specialty Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ovum Hospitals A Unit Of Neonatal Care And Resear,10,0,2,3,15,0,0,0,0,0,10,0,2,3,15,0,0,0,0,0
+Omega Multi Speciality Hospital A Unit of NARCC Mu,9,0,0,3,12,0,0,0,0,0,9,0,0,3,12,0,0,0,0,0
+Apollo Bangalore Cradle ltd,8,0,2,2,12,0,0,0,0,0,8,0,2,2,12,0,0,0,0,0
+Jai Maruthi Hospital,8,0,1,1,10,0,0,0,0,0,8,0,1,1,10,0,0,0,0,0
+Om Shakthi Hospital,5,0,1,1,7,0,0,0,0,0,5,0,1,1,7,0,0,0,0,0
+NRV Hospital,8,0,0,2,10,0,0,0,0,0,8,0,0,2,10,0,0,0,0,0
+Jagriti Maternity Home,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Anugraha Vittala Hospital,9,0,0,1,10,0,0,0,0,0,9,0,0,1,10,0,0,0,0,0
+New Akshay Mallya Hospital,8,0,2,2,12,0,0,0,0,0,8,0,2,2,12,0,0,0,0,0
+Hemalatha Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Anjani Hospital,8,0,1,1,10,0,0,0,0,0,8,0,1,1,10,0,0,0,0,0
+Nethradhama Hospitals Pvt Ltd,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Akshaya Nursing Home,13,0,0,0,13,0,0,0,0,0,13,0,0,0,13,0,0,0,0,0
+Health Plus Multi Speciality Hospital,6,0,0,1,7,0,0,0,0,0,6,0,0,1,7,0,0,0,0,0
+Nelivigi Multispeciality Hospital,8,0,2,2,12,0,0,0,0,0,8,0,2,2,12,0,0,0,0,0
+Akshaya Eye Hospital A Unit of Right Axis Eye Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adarsh Multi Speciality Hospital,7,0,1,2,10,0,0,0,0,0,7,0,1,2,10,0,0,0,0,0
+Health Nest,9,0,1,2,12,0,0,0,0,0,9,0,1,2,12,0,0,0,0,0
+Gunasheela Surgical And Maternity Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Artyem Hospital,11,0,1,1,13,0,0,0,0,0,11,0,1,1,13,0,0,0,0,0
+Patil Hospital,3,0,1,1,5,0,0,0,0,0,3,0,1,1,5,0,0,0,0,0
+Fortis hospital Rajajinagar,2,1,0,0,3,0,0,0,0,0,2,1,0,0,3,0,0,0,0,0
+Pavan Hospital,4,0,1,0,5,0,0,0,0,0,4,0,1,0,5,0,0,0,0,0
+Life line Hospital,8,0,1,1,10,0,0,0,0,0,8,0,1,1,10,0,0,0,0,0
+Life Care Hospital,6,0,1,3,10,0,0,0,0,0,6,0,1,3,10,0,0,0,0,0
+Leelavathi Multi Speciality Hospital Pvt Ltd,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Lavendar Lotus Multispeciality Hospital Pvt Ltd,9,0,2,3,14,0,0,0,0,0,9,0,2,3,14,0,0,0,0,0
+Lakshmi Nursing Home,5,0,0,1,6,0,0,0,0,0,5,0,0,1,6,0,0,0,0,0
+Lake View Hospital,14,0,0,2,16,0,0,0,0,0,14,0,0,2,16,0,0,0,0,0
+Kruthika Hospital,10,0,1,1,12,0,0,0,0,0,10,0,1,1,12,0,0,0,0,0
+Koya Health Care Pvt ltd,10,0,1,3,14,0,0,0,0,0,10,0,1,3,14,0,0,0,0,0
+Promed Hospital,7,0,1,1,9,0,0,0,0,0,7,0,1,1,9,0,0,0,0,0
+Primecare Medical Services Multispecialty Clinic,8,0,2,2,12,0,0,0,0,0,8,0,2,2,12,0,0,0,0,0
+Kenganar Hospita,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Karunalayam Hospital,7,0,2,2,11,0,0,0,0,0,7,0,2,2,11,0,0,0,0,0
+Kanva Sri Hospital,11,0,2,2,15,0,0,0,0,0,11,0,2,2,15,0,0,0,0,0
+Prime Health Care Centre,6,0,2,4,12,0,0,0,0,0,6,0,2,4,12,0,0,0,0,0
+Prasad Hospital,5,0,1,1,7,0,0,0,0,0,5,0,1,1,7,0,0,0,0,0
+Kanaka Maternity Hospital,3,0,1,1,5,0,0,0,0,0,3,0,1,1,5,0,0,0,0,0
+Jupiter Hospital,6,0,0,1,7,0,0,0,0,0,6,0,0,1,7,0,0,0,0,0
+POPULAR MATERNITY CENTRE AND NURSING HOME,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0
+Aswad hospital,7,0,1,1,9,0,0,0,0,0,7,0,1,1,9,0,0,0,0,0
+Phoenix Hospital,6,0,2,3,11,0,0,0,0,0,6,0,2,3,11,0,0,0,0,0
+Asian Hospital,8,0,1,1,10,0,0,0,0,0,8,0,1,1,10,0,0,0,0,0
+Udhbhava Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Ramaiah Harsha Hospital,25,0,0,0,25,0,0,0,0,0,25,0,0,0,25,0,0,0,0,0
+Kshema Hospital,11,0,1,1,13,0,0,0,0,0,11,0,1,1,13,0,0,0,0,0
+Medihope Hospitals And Research Centre Pvt Ltd,50,0,0,0,50,0,0,0,0,0,50,0,0,0,50,0,0,0,0,0
+Shantha Multi Speciality Hospital,0,12,1,1,14,0,0,0,0,0,0,12,1,1,14,0,0,0,0,0
+Shree Maternity Home,0,5,1,1,7,0,0,0,0,0,0,5,1,1,7,0,0,0,0,0
+Venkatagiri Nursing Home,0,8,0,1,9,0,0,0,0,0,0,8,0,1,9,0,0,0,0,0
+Kavitha Hospital,18,0,0,0,18,0,0,0,0,0,18,0,0,0,18,0,0,0,0,0
+Motherhood Hospital Indira Nagar Healthcare Pvt,12,1,1,0,14,0,0,0,0,0,12,1,1,0,14,0,0,0,0,0
+Kids Clinic India Pvt Ltd Cloudnine Hospital Horamavu,0,9,0,2,11,0,0,0,0,0,0,9,0,2,11,0,0,0,0,0
+Kids Clinic India Pvt Ltd Cloudnine Hospital Varthur,0,11,0,1,12,0,0,0,0,0,0,11,0,1,12,0,0,0,0,0
+PM Santosha Hospital,0,37,4,1,42,0,0,0,0,0,0,37,4,1,42,0,0,0,0,0
+ACE Suhas Hospital,21,0,2,2,25,0,0,0,0,0,21,0,2,2,25,0,0,0,0,0
+Specialist Health System Pvt Limited,40,0,0,0,40,0,0,0,0,0,40,0,0,0,40,0,0,0,0,0
+Suguna Hospital Bangalore,16,0,0,1,17,0,0,0,0,0,16,0,0,1,17,0,0,0,0,0
+Green View Hospital,10,0,1,1,12,0,0,0,0,0,10,0,1,1,12,0,0,0,0,0
+Lenus Hospitals,8,0,1,0,9,0,0,0,0,0,8,0,1,0,9,0,0,0,0,0
+R R Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Shankar Supre Speciality Hospital,17,0,0,0,17,0,0,0,0,0,17,0,0,0,17,0,0,0,0,0
+Comfort Multi Speciality Hospital,3,6,4,2,15,0,0,0,0,0,3,6,4,2,15,0,0,0,0,0
+Neha Multispeciality Nursing Home,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Fortis Hospital Bannerghatta,53,0,5,2,60,0,0,0,0,0,53,0,5,2,60,0,0,0,0,0
+Sagar hospital Jayanagar,125,0,0,0,125,0,0,0,0,0,125,0,0,0,125,0,0,0,0,0
+Sparsh Hospital For Advanced Surgeries,50,0,0,0,50,0,0,0,0,0,50,0,0,0,50,0,0,0,0,0
+Sri Shivakrupa Hospital,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+Chirayu Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+M S Ramaiah Narayana Heart Centre,32,0,0,0,32,0,0,0,0,0,32,0,0,0,32,0,0,0,0,0
+Vedamrutha Hospital,0,5,1,1,7,0,0,0,0,0,0,5,1,1,7,0,0,0,0,0
+Dr Malathi Manipal Hospital,38,0,0,0,38,0,0,0,0,0,38,0,0,0,38,0,0,0,0,0
+ABHAYA HOSPITAL,20,0,0,0,20,0,0,0,0,0,20,0,0,0,20,0,0,0,0,0
+Taluk Hospital Hosakote,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+General Hospital Anekal,47,0,2,1,50,0,0,0,0,0,47,0,2,1,50,0,0,0,0,0
+Taluk Hospital Nelamangala,30,0,0,0,30,0,0,0,0,0,30,0,0,0,30,0,0,0,0,0
+General Hospital Kr Puram,2,0,2,0,4,0,0,0,0,0,2,0,2,0,4,0,0,0,0,0
+General Hospital Yelahanka,0,35,0,0,35,0,0,0,0,0,0,35,0,0,35,0,0,0,0,0
+Taluk Hospital Devanahalli,25,12,8,5,50,0,0,0,0,0,25,12,8,5,50,0,0,0,0,0
+TRUSTWELL HOSPITALS PRIVATE LIMITED,8,7,3,2,20,0,0,0,0,0,8,7,3,2,20,0,0,0,0,0
+Leprosy Hospital,0,34,0,0,34,0,0,0,0,0,0,34,0,0,34,0,0,0,0,0
+Trauma And Emergency Care Centre,30,62,0,38,130,0,0,0,0,0,30,62,0,38,130,0,0,0,0,0
+ESI Hospital Indiranagar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bangalore Cancer Centre Private Limited,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sakra Hospital,3,21,4,2,30,0,0,0,0,0,3,21,4,2,30,0,0,0,0,0
+SPARSH SUPER SPECIALITY HOSPITAL,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Supurva Hospitals Private Limited,16,0,7,1,24,0,0,0,0,0,16,0,7,1,24,0,0,0,0,0
+Sreenivasa hospital,15,0,0,2,17,0,0,0,0,0,15,0,0,2,17,0,0,0,0,0
+ABHAYA EYE HOspital,14,0,0,0,14,0,0,0,0,0,14,0,0,0,14,0,0,0,0,0
+ANUPAMA HOSPITAL,45,0,1,0,46,0,0,0,0,0,45,0,1,0,46,0,0,0,0,0
+Manipal hospital,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+cytecare Hospital Pvt Ltd,0,22,1,2,25,0,0,0,0,0,0,22,1,2,25,0,0,0,0,0
+Manipal Hospitals Whitefield,170,0,5,5,180,0,0,0,0,0,170,0,5,5,180,0,0,0,0,0
+Rainbow Childrens Medicare Private Limited,5,2,2,1,10,0,0,0,0,0,5,2,2,1,10,0,0,0,0,0
+Shradha Nursing Home,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Shree Sai Speciality Hospital,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Sri Rama Hospital Multi Speciality And Trauma,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+TR Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Sri Lakshmi Super Speciality Hospital,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Vinayaka Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sree Lakshmi Hospital,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Sri Raghava Childrens And General Hospital,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Sree Lakshmi Multi Speciality Hospital,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+Sree sai prasad multispeciality Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Sri Sai Hospitals,22,0,0,0,22,0,0,0,0,0,22,0,0,0,22,0,0,0,0,0
+Unity Lifeline Hospital India Pvt Ltd,13,0,0,0,13,0,0,0,0,0,13,0,0,0,13,0,0,0,0,0
+Sri Sai Northside Hospital,9,0,0,0,9,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0
+Best Hospital,8,0,1,4,13,0,0,0,0,0,8,0,1,4,13,0,0,0,0,0
+Ananya Hospital Pvt Ltd Rajajinagar,25,0,0,0,25,0,0,0,0,0,25,0,0,0,25,0,0,0,0,0
+Srinivasam Cancer Care Multi Speciality Hospital,25,0,0,0,25,0,0,0,0,0,25,0,0,0,25,0,0,0,0,0
+Like Wings Hospitals Pvt Ltd,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Sri Ashwini Hospital,17,0,0,0,17,0,0,0,0,0,17,0,0,0,17,0,0,0,0,0
+Malnad Hospital,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Vijayanagar Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Pristine Hospital And Research Centre Pvt Ltd,16,1,3,1,21,0,0,0,0,0,16,1,3,1,21,0,0,0,0,0
+New varalakshmi hospital,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Raksha Multispeciality Hospital,25,0,0,0,25,0,0,0,0,0,25,0,0,0,25,0,0,0,0,0
+The Heart Center,17,1,1,1,20,0,0,0,0,0,17,1,1,1,20,0,0,0,0,0
+SI Vega Hospital Private Limited Regal Hospital,50,0,0,0,50,0,0,0,0,0,50,0,0,0,50,0,0,0,0,0
+U K HOSPITAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Varthur Silicon City Hospital Pvt Ltd LLP,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Sri Sai Ram Hospital,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+JMJ Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Shree Hari Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Shankar Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Siddalingappa Memorial Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sri Venkateshwara Hospital,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Sidvin Hospital Pvt Ltd,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Shishuka Childrens Hospital,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Srinivasa Hospital,8,0,0,0,8,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0
+Sevakshetra Hospital,11,0,2,2,15,0,0,0,0,0,11,0,2,2,15,0,0,0,0,0
+Sri Vinayaka Multispeciality Hospital And Trauma C,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+Srinivasa Nursing Home,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Shivaganga Nursing Home,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+Sumathi Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Sun Orthopaedic Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Supriya Hospital,8,0,0,0,8,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0
+Spandana Health Care,15,0,0,0,15,0,0,0,0,0,15,0,0,0,15,0,0,0,0,0
+Shobha Hospital,9,0,0,0,9,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0
+Swasthik Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Sree Balaji Hospital and diagnostic,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+VISHAL MULTI SPECIALITY HEALTH CAARE CENTRE,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Syamala Hospital,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Tejas Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Abhinav Hospital,17,0,1,2,20,0,0,0,0,0,17,0,1,2,20,0,0,0,0,0
+Navya Super Speciality Hospital,9,0,1,2,12,0,0,0,0,0,9,0,1,2,12,0,0,0,0,0
+Green View Health Care Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deepashri Hospitals,0,7,1,2,10,0,0,0,0,0,0,7,1,2,10,0,0,0,0,0
+FORTIS HOSPITALS,22,0,5,3,30,0,0,0,0,0,22,0,5,3,30,0,0,0,0,0
+Sita Bhateja Speciality Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manasa Hospital,3,0,0,0,3,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0
+Genesis Hospital Unit of American Hospital,7,0,1,2,10,0,0,0,0,0,7,0,1,2,10,0,0,0,0,0
+Geetha Nursing Home,7,0,1,1,9,0,0,0,0,0,7,0,1,1,9,0,0,0,0,0
+Narayana Medical Center,7,0,0,1,8,0,0,0,0,0,7,0,0,1,8,0,0,0,0,0
+Milann A Unit off BACC Healthcare Pvt Ltd,8,2,1,0,11,0,0,0,0,0,8,2,1,0,11,0,0,0,0,0
+Nano hospital,9,0,1,2,12,0,0,0,0,0,9,0,1,2,12,0,0,0,0,0
+Aashirvad Hospital,7,0,2,0,9,0,0,0,0,0,7,0,2,0,9,0,0,0,0,0
+Gayathri Diagnostics And Health Services A Unit of,7,0,1,1,9,0,0,0,0,0,7,0,1,1,9,0,0,0,0,0
+Devi Super Speciality Eye Hospital Pvt Ltd,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Shanbhag Hospital Unit of Ananya Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deepasri Multi Specialities Hospital,0,10,4,1,15,0,0,0,0,0,0,10,4,1,15,0,0,0,0,0
+Motherhood Hospital A Unit of Rhea Healthcare Pvt,13,1,0,0,14,0,0,0,0,0,13,1,0,0,14,0,0,0,0,0
+Kids Clinic India Pvt Ltd Cloudline Hospital,9,0,0,3,12,0,0,0,0,0,9,0,0,3,12,0,0,0,0,0
+Sri Lakshmi Multi Specialty Hospital,17,1,1,1,20,0,0,0,0,0,17,1,1,1,20,0,0,0,0,0
+Excelcare Hospital A Unit of Excelcare Health Alli,16,0,2,4,22,0,0,0,0,0,16,0,2,4,22,0,0,0,0,0
+Gangothri Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jai Banashankari Nursing Centre,4,0,0,0,4,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0
+AANSH IVF Hospitals Pvt Ltd,7,0,0,0,7,0,0,0,0,0,7,0,0,0,7,0,0,0,0,0
+Nandini Hospital And Diagnostic Centre,5,0,0,1,6,0,0,0,0,0,5,0,0,1,6,0,0,0,0,0
+Santosh Hospital,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Abhay Vasishtha Hospital,12,0,2,1,15,0,0,0,0,0,12,0,2,1,15,0,0,0,0,0
+Yashomati Hospitals,18,24,7,1,50,0,0,0,0,0,18,24,7,1,50,0,0,0,0,0
+Rajshekar Multi Speciality Hospital Pvt Ltd,6,2,0,0,8,0,0,0,0,0,6,2,0,0,8,0,0,0,0,0
+Nandana Health Care Services India Private Limited,12,0,0,0,12,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0
+Prakriya Hospitals A Unit of C Square Healthcare,22,6,0,2,30,0,0,0,0,0,22,6,0,2,30,0,0,0,0,0
+Dr Levine Memorial Hospital Unit II,0,10,2,2,14,0,0,0,0,0,0,10,2,2,14,0,0,0,0,0
+New Janapriya Super Specialty Hospital,2,0,0,2,4,0,0,0,0,0,2,0,0,2,4,0,0,0,0,0
+The Pulse Multispeciality Hospital,10,0,4,2,16,0,0,0,0,0,10,0,4,2,16,0,0,0,0,0
+CHRIS SUPER SPECIALITY HOSPITAL,30,0,0,0,30,0,0,0,0,0,30,0,0,0,30,0,0,0,0,0
+BMS Hospital,5,5,5,0,15,0,0,0,0,0,5,5,5,0,15,0,0,0,0,0
+Healthcare Global Enterprises Ltd,19,2,4,0,25,0,0,0,0,0,19,2,4,0,25,0,0,0,0,0
+Nu Hospitals Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manjushree hospital,20,0,0,0,20,0,0,0,0,0,20,0,0,0,20,0,0,0,0,0
+Jayashree Multispeciality Hospital,20,0,0,0,20,0,0,0,0,0,20,0,0,0,20,0,0,0,0,0
+Sri Sai Hospital,4,0,1,0,5,0,0,0,0,0,4,0,1,0,5,0,0,0,0,0
+PAN Nagarbhavi Hospitals Pvt Ltd,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+NR Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Sri Arogya Hospital,18,0,2,0,20,0,0,0,0,0,18,0,2,0,20,0,0,0,0,0
+N R Amar Hospital And Research Centre,3,4,2,1,10,0,0,0,0,0,3,4,2,1,10,0,0,0,0,0
+Mysore Hospital,6,0,0,0,6,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0
+Atreum Hospitals Pvt Ltd,7,0,0,1,8,0,0,0,0,0,7,0,0,1,8,0,0,0,0,0
+HBS Hospital Trust,4,2,0,2,8,0,0,0,0,0,4,2,0,2,8,0,0,0,0,0
+Motherhood Hospital A Unit of Rhea Healthcare Pvt,15,0,2,3,20,0,0,0,0,0,15,0,2,3,20,0,0,0,0,0
+E City Hospital,5,0,1,1,7,0,0,0,0,0,5,0,1,1,7,0,0,0,0,0
+MEDSTAR SPECIALITY HOSPITAL,10,0,0,0,10,0,0,0,0,0,10,0,0,0,10,0,0,0,0,0
+Manasa Trinity Heart Hospital,5,0,0,0,5,0,0,0,0,0,5,0,0,0,5,0,0,0,0,0
+Shushrusha Hospital Yelahanka,58,0,1,1,60,0,0,0,0,0,58,0,1,1,60,0,0,0,0,0
+Ehaa Hospital,51,0,12,2,65,0,0,0,0,0,51,0,12,2,65,0,0,0,0,0
+Chiraayu hospital Bangalore,16,0,0,0,16,0,0,0,0,0,16,0,0,0,16,0,0,0,0,0
+The Pulse Multispeciality Hospital,4,0,0,1,5,0,0,0,0,0,4,0,0,1,5,0,0,0,0,0
