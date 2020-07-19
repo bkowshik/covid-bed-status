@@ -2,22 +2,21 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
-def main():
-    input_filename = '../data/bed_status.html'
-    with open(input_filename) as f:
+def parse(filename):
+
+    # Read file and prepare the soup.
+    with open(filename) as f:
         soup = BeautifulSoup(f.read().replace(u'\xa0', ' '), 'html.parser')
 
+    # To store counts for every hospital.
     data_rows = []
 
+    # Hospitals are grouped by categories and every category is a table of its own.
     tables = soup.find_all(id="excltable")
     for i, table in enumerate(tables):
 
-        # if i not in [1, 2, 3, 4, ]:
-        #     continue
-
+        # Some tables are summaries and don't have counts per hospital. Skip them.
         rows = table.find_all('tr')
-
-        # Skip when the table does not have counts per hospital.
         if len(rows[2]) < 30:
             continue
 
@@ -25,15 +24,11 @@ def main():
 
             tds = row.find_all('td')
 
-            # Skip over empty rows or rows that are not required like the total row.
-            if not tds or len(tds) <= 10 or (tds[0].text is None) or (tds[0].text == '') or (tds[0].text == '\xa0'):
+            # Skip over empty rows, table headers or rows that are not required like the total row.
+            if not tds or len(tds) <= 10 or (tds[0].text is None) or (tds[0].text == '') or (tds[0].text == '\xa0') or (tds[0].text == '#'):
                 continue
 
-            # Store the header row as columns of the DataFrame.
-            elif tds[0].text == '#':
-                columns = [' '.join(td.text.split()) for td in tds]
-
-            # Store the datasets.
+            # Store the counts after cleanup.
             else:
                 data_row = []
                 for td in tds:
@@ -77,6 +72,13 @@ def main():
 
     # There are some duplicate rows too.
     df.drop_duplicates(inplace=True)
+
+    return df
+
+
+def main():
+    input_filename = '../data/bed_status.html'
+    df = parse(input_filename)
 
     output_filename = '../data/bed_status.csv'
     df.to_csv(output_filename, index=False)
