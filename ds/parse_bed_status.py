@@ -65,7 +65,7 @@ def parse(filename):
     df = pd.DataFrame(data_rows, columns=columns).fillna('0')
 
     # Change data types of all the count columns.
-    df[df.columns[3:]] = df[df.columns[3:]].astype('int')
+    df[df.columns[2:]] = df[df.columns[2:]].astype('int')
 
     # Drop the first column which has serial numbers.
     df = df[df.columns[1:]].sort_values(by='Occupied total', ascending=False)
