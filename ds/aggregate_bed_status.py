@@ -27,17 +27,22 @@ def main():
 
         df = df.append(file_df)
 
+    # Load location of all hospitals.
+    locations = pd.read_csv('../data/hospital_locations.csv')
+    locations['Latitude'] = locations['Latitude'].round(6)
+    locations['Longitude'] = locations['Longitude'].round(6)
+
     for metric in df.columns[1:-1]:
 
         # Pivot by the metric with hospital names as columns and datetime as rows.
         pivot = df.pivot_table(columns='ds', index='Name', values=metric)
 
-        # Sort columns in descending order of the metric.
-        # pivot = pivot.reindex(pivot.sum().sort_values(ascending=False).index, axis=1)
+        # Enrich with location data.
+        merged = pd.merge(locations, pivot, on='Name', how='right').fillna('')
 
         # Write to a csv.
         filename = f'../data/timeseries/{metric}.csv'
-        pivot.to_csv(filename)
+        merged.drop(columns=['Address']).to_csv(filename, index=False)
 
 
 if __name__ == '__main__':
