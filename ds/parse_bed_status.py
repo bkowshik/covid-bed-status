@@ -20,8 +20,8 @@ def parse(filename):
         if '</td>  <tr>' in text:
             text = text.replace('</td>  <tr>', '</td> </tr> <tr>')
 
-        with open('temp.html', 'w') as f:
-            f.write(text)
+        # with open('temp.html', 'w') as f:
+        #     f.write(text)
 
         soup = BeautifulSoup(text.replace(u'\xa0', ' '), 'html.parser')
 
