@@ -2,6 +2,10 @@
 
 > A dedication to all the corona warriors! 🙏
 
+![](static/occupied_total.png)
+
+_Image: Hospitals colored by category and sized by number of occupied beds._
+
 
 ### Workflow
 There are 3 parts to this project:
