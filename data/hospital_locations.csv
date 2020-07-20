@@ -1,4 +1,4 @@
-category,name,address,latitude,longitude
+Category,Name,Address,Latitude,Longitude
 Private hospital,AANSH IVF Hospitals Pvt Ltd,No13 6th Cross 100 feet Road Srinivagilu koramangala Bangalore 560047,12.938334,77.631089
 Private hospital,ABHAYA EYE HOspital,Vasanthappa Building National Park Road Banneraghatta Bangalore 560083,12.800285,77.577047
 Private hospital,ABHAYA HOSPITAL,Opp 9th Cross Bus Stop Hosur Road Wilson Garden Bengaluru,12.946389,77.594798
@@ -82,6 +82,7 @@ Private hospital,Excelcare Hospital A Unit of Excelcare Health Alli,No 3 2 27th 
 Private hospital,FORTIS HOSPITALS,Cunningham Road near Sigma Central Mall Vasanth Nagar Bengaluru Karnataka 560052,12.988332,77.594399
 Private hospital,Fortis Hospital Bannerghatta,BANNERGHATTA ROAD,12.894823,77.59862
 Private hospital,Fortis hospital Rajajinagar,west of chord road opposite to first block rajajinagar junction near rajajinagar metro station,13.002185,77.54905
+Covid Care Center (CCC),GKVK Agri,Gandhi Krishi Vignana Kendra Bengaluru Karnataka 560065,13.076668,77.577627
 Private hospital,Gangothri Hospital,BTM Layout 1st Phase,12.916328,77.613897
 Private hospital,Gayathri Diagnostics And Health Services A Unit of,N126 08th Main JP Nagar 3rd Phase Bangalore 560078,12.978383,77.510142
 Private hospital,Gayathri Hospitals Pvt Limited,Magadi Chord Road Vijayanagar Bengaluru 560040,12.974421,77.542679
@@ -91,14 +92,18 @@ Govt. hospital,General Hospital Jayanagar,"32nd Cross, 4th B Block, beside Rajiv
 Govt. hospital,General Hospital Kr Puram,"Krishnarajapura, Bengaluru, Karnataka 560036",13.009064,77.69682
 Govt. hospital,General Hospital Yelahanka,"Yelahanka, Bengaluru, Karnataka 560064",13.099564,77.596385
 Private hospital,Genesis Hospital Unit of American Hospital,No 10 2 Queens Road Bangalore 560052,12.986388,77.597948
+Covid Care Center (CCC),Govt Ayur College,Dhanvantari Road Bangalore Bengaluru Karnataka 560010,12.979646,77.573021
 Private hospital,Green View Health Care Pvt Ltd,20 and 21 14th Main V Sector HSR layout opp To Agara Lake Bengaluru 560034,12.919129,77.638123
 Private hospital,Green View Hospital,No 80 Old no 43 Ejipura Main Road Vivekanagar Bangalore 560047,12.949065,77.62718
 Private hospital,Gunasheela Surgical And Maternity Hospital,Dewan N Madhava Rao Road Basavanagudi,12.940387,77.576428
 Private hospital,HBS Hospital Trust,No 58 Cockburn road shivajinagar,12.989395,77.603449
+Covid Care Center (CCC),Haj Bhavan,Kannuru Bellahalli Karnataka 560064,13.090084,77.636497
 Private hospital,Health Nest,1162 23rd Main 24th Cross H S R layout Sector 2 Bengaluru 560102healthnest2010,12.907572,77.648843
 Private hospital,Health Plus Multi Speciality Hospital,No 70 Shop No 08 TC Palya Main Road Near St Anthony Church Bangalore 560036,13.021898,77.699395
 Private hospital,Healthcare Global Enterprises Ltd,Healthcare Global Enterprises Ltd No44 45 2 2Nd Cross Raja Rammohan Roy Extn Off Lalbagh Double Road Bangalore 560027,12.951276,77.590954
 Private hospital,Hemalatha Hospital,No 19 7th Cross Rose Garden Neelasandra 560047,12.954124,77.616627
+Covid Care Center (CCC),Horti Boy's Hostel,Boys Hostel College Of Horticulture Tamaka Karnataka 563103,13.128692,78.177583
+Covid Care Center (CCC),Horti Girls's Hostel,Girls Hostel College Of Horticulture Tamaka Karnataka 563101,13.130884,78.178964
 Private hospital,JMJ Hospital,Nagavara Arabic College P O Bangalore 560045,13.039842,77.623094
 Private hospital,Jagriti Maternity Home,282 A 38th Cross 14 Main 4th T Block Jayanagar Bangalore 560041,12.921725,77.587052
 Private hospital,Jai Banashankari Nursing Centre,Vasanthappa Building National Park Road Banneraghatta Bangalore 560083,12.800285,77.577047
@@ -117,6 +122,7 @@ Private hospital,Kids Clinic India Pvt Ltd Cloudline Hospital,Nagarjuna Sai Sign
 Private hospital,Kids Clinic India Pvt Ltd Cloudline Hospital,No 1533 9th main Road 3rd Block Jayanagar Bangalore 560011,12.933864,77.584226
 Private hospital,Kids Clinic India Pvt Ltd Cloudnine Hospital Horamavu,Horamavu Village K R Puram hobli Bengaluru South Taluk Outer Ring Road Bangalore 560043,13.020062,77.654056
 Private hospital,Kids Clinic India Pvt Ltd Cloudnine Hospital Varthur,Bellandur Village Varthur Hobli Bengaluru,12.924329,77.672415
+Covid Care Center (CCC),Koramangala,National Games Village Complex Bengaluru Karnataka,12.940804,77.626047
 Private hospital,Koshys Hospital,TC Palya Main Road Ramamurthy Nagar Bangalore,13.020742,77.676075
 Private hospital,Koya Health Care Pvt ltd,No 81 1 3rd Floor Richmond Road Opp Koshy s Bakery Bangalore 560025,12.965436,77.604799
 Private hospital,Kruthika Hospital,Nanjappa Cross Vidyaranyapura Main RoadBangalore560097,13.067732,77.559949
@@ -160,9 +166,9 @@ Private hospital,Medwell Multispeciality Hospital And Diagnostic Ce,1 And 2 Sy n
 Private hospital,Meenakshi Hospital,50 Feet Main Rd Hanumanthnagar Banashankari Stage I Bengaluru Karnataka 560050,12.942054,77.553603
 Private hospital,Meghana Nursing Home,NO 13 9th Main 60feet Road J C Nagar Kurubarahalli Bangalore 560086,13.003525,77.535656
 Private hospital,Milann A Unit off BACC Healthcare Pvt Ltd,No 82 CMH Road Indiranagar 2nd Stage Bangalore 560038,12.978788,77.638055
+Private hospital,Motherhood Hospital A Unit of Rhea Healthcare Pvt,HRBR Layout bangalore,13.020201,77.651602
 Private hospital,Motherhood Hospital A Unit of Rhea Healthcare Pvt,514 1 2 3 Koikondrahalli Villege Sarjapura Road Bangalore 560104,13.020201,77.651602
 Private hospital,Motherhood Hospital A Unit of Rhea Healthcare Pvt,324 CMH Road 1st Stage Indiranagar Bangalore 560038,13.020201,77.651602
-Private hospital,Motherhood Hospital A Unit of Rhea Healthcare Pvt,HRBR Layout bangalore,13.020201,77.651602
 Private hospital,Motherhood Hospital Indira Nagar Healthcare Pvt,No 323 CMH Road 1st Stage Indiranagar Bangalore 560038,12.978469,77.637512
 Private hospital,Mysore Hospital,356 Goraguntepalya Yeshwanthpur Bangalore 560022,13.027526,77.539707
 Private hospital,N R Amar Hospital And Research Centre,no32 5th Cross 8th Main Byrasandra Jayanagara 1st Block Bangalore,12.934061,77.592655
